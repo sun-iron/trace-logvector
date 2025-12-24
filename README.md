@@ -5,7 +5,7 @@ This repository contains the official reference implementation and dataset for t
 We propose **Trace-LogVector (TLV)**, a relational log representation method designed to improve Retrieval-Augmented Generation (RAG) performance in system log analysis. This project demonstrates how **CARD (Chunk as a Relational Data)**-based multi-chunk strategies significantly outperform traditional single-chunk approaches in retrieving execution traces.
 
 ## Repository Structure
-
+```text
 Trace-LogVector
 ├── dataset
 │   ├── 0-trace_log_data.csv       # Raw trace log data derived from service call analysis
