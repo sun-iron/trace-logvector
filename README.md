@@ -16,6 +16,7 @@ Trace-LogVector
 │   ├── multi_card_from_csv.py         # Script to generate Multi-chunk (CARD) representations
 │   ├── eval_logvector_rag_single.py   # Evaluation script for Single-chunk strategy
 │   └── eval_logvector_rag_multi.py    # Evaluation script for Multi-chunk strategy
+|
 └── baselines_eval                     # Baseline experiments & Ablation study (Added for Revision)
     ├── 1_tfidf_baseline_sklearn.py    # TF-IDF lexical retriever baseline (2x2 Ablation Study)
     ├── 2_sliding_window_from_csv.py   # Sliding window chunking evaluation on structured CSV
