@@ -7,6 +7,8 @@ Sun-Chul Park, Young-Han Kim
 *Sensors* 2026, 26(6), 1806  
 DOI: [10.3390/s26061806](https://doi.org/10.3390/s26061806)
 
+<img width="593" height="300" alt="image" src="https://github.com/user-attachments/assets/e2cff736-32b7-423a-adbe-8593c0467593" />
+
 This repository provides the reference implementation and experimental dataset for **Trace-LogVector (TLV)**, a relational log representation designed for conversational system log analysis in Retrieval-Augmented Generation (RAG) settings.
 
 ## Overview
